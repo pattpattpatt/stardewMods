@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Test Mod",
+  "Author": "Rebecca Patton",
+  "Version": "0.1.0",
+  "Description": "<One or two sentences about the mod>",
+  "UniqueID": "<your name>.<your project name>",
+  "EntryDll": "<your project name>.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
